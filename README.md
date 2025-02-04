@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekverma807" alt="vivekverma807" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vivekverma807" target="blank"><img src="https://img.shields.io/twitter/follow/vivekverma807?logo=twitter&style=for-the-badge" alt="vivekverma807" /></a> </p>
-
 - 🌱 I’m currently learning **Android App Development**
 
 - 📫 How to reach me **dev.vivekverma807@gmail.com**
