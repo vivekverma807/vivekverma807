@@ -144,7 +144,7 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 ### 🔥 Streak Stats
 <p align="center">
-<img src="./assets/wing-left.png" alt="wing-left" height="120" width="120" style="vertical-align: middle; margin-bottom: 40px;"/><img src="https://streak-stats.demolab.com?user=vivekverma807&locale=en&mode=daily&theme=onedark&hide_border=false&order=3" height="160" alt="streak graph" align="center" style="vertical-align: middle;" /><img src="./assets/wing-right.png" alt="wing-right" height="120" width="120" style="vertical-align: middle; margin-bottom: 40px;"/>
+<img src="./assets/wing-left.png" alt="wing-left" height="120" style="vertical-align: middle; margin-bottom: 40px;"/><img src="https://streak-stats.demolab.com?user=vivekverma807&locale=en&mode=daily&theme=onedark&hide_border=false&order=3" height="160" alt="streak graph" align="center" style="vertical-align: middle;" /><img src="./assets/wing-right.png" alt="wing-right" height="120" style="vertical-align: middle; margin-bottom: 40px;"/>
 </p>
 
 
