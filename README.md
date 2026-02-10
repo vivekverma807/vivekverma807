@@ -145,9 +145,9 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekverma807&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
 ### 🔥 Streak Stats
-<img src="./assets/wing-left.png" alt="wing-left" height="200"/>
-<img src="https://streak-stats.demolab.com?user=vivekverma807&locale=en&mode=daily&theme=onedark&hide_border=false&order=3" height="200" alt="streak graph" />
-<img src="./assets/wing-right.png" alt="wing-right" height="200"/>
+<img src="./assets/wing-left.png" alt="wing-left" height="200" style="vertical-align: middle; display: inline-block;"/>
+<img src="https://streak-stats.demolab.com?user=vivekverma807&locale=en&mode=daily&theme=onedark&hide_border=false&order=3" height="200" alt="streak graph" style="vertical-align: middle; display: inline-block;" />
+<img src="./assets/wing-right.png" alt="wing-right" height="200" style="vertical-align: middle; display: inline-block;"/>
 
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekverma807&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
