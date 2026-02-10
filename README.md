@@ -68,7 +68,7 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## �🛠️ Tech Stack & Skills
 
 <!-- Octocat Mascot -->
 <div align="center">
@@ -221,6 +221,20 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <img src="https://komarev.com/ghpvc/?username=vivekverma807&label=Profile%20views&color=0e75b6&style=flat" alt="vivekverma807" />
 
+</div>
+
+<br>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekverma807/vivekverma807/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekverma807/vivekverma807/output/snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/vivekverma807/vivekverma807/output/snake.svg">
+  </picture>
 </div>
 
 <br>
