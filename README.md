@@ -74,6 +74,7 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 <a href="https://discord.com/users/vivekverma807" target="_blank">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
+<br>
 <a href="https://stackoverflow.com/users/vivekverma807" target="_blank">
 <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
 </a>
