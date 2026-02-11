@@ -1,4 +1,4 @@
-name: generate pacman game
+name: Generate Pacman Game
 
 on:
   schedule:
