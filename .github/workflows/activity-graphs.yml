@@ -1,4 +1,4 @@
-name: Generate Activity Graphs
+name: Update Profile & Activity
 
 on:
   schedule:
@@ -8,12 +8,39 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Generate Activity & Profile
     permissions:
       contents: write
+      
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # ---------------------------------------------------------
+      # 1. Generate 3D Contribution Graph (Commits to MAIN branch)
+      # ---------------------------------------------------------
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push 3D Graph
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit for 3D graph"
+          else
+            git commit -m "generated 3d profile graph"
+            git push
+          fi
+
+      # ---------------------------------------------------------
+      # 2. Generate Snake & Pacman (Pushes to OUTPUT branch)
+      # ---------------------------------------------------------
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -27,17 +54,12 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Ensure files in dist
+      - name: Prepare Dist Directory
         run: |
           mkdir -p dist
-          # Move pacman files to dist if they are in the root
-          if [ -f "pacman-contribution-graph.svg" ]; then
-            mv pacman-contribution-graph.svg dist/
-          fi
-          if [ -f "pacman-contribution-graph-dark.svg" ]; then
-             mv pacman-contribution-graph-dark.svg dist/
-          fi
-      
+          # Move pacman files to dist (suppress errors if files don't exist)
+          mv pacman-contribution-graph* dist/ 2>/dev/null || true
+          
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
