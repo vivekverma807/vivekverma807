@@ -279,6 +279,15 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 ---
 
+<br>
+
+<!-- Funny Typewriter Outro -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+dropping+by!+%F0%9F%91%8B;Wait,+you're+still+here%3F;Are+you+looking+for+the+bugs%3F+%F0%9F%90%9B;Don't+worry,+they+are+'features'+%F0%9F%98%89;Star+the+repo+and+have+a+great+day!+%E2%AD%90" alt="Typing SVG" />
+</div>
+
+<br>
+
 <!-- Footer Wave -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
