@@ -94,6 +94,9 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
 </a>
 
+<br>
+<a href="https://app.daily.dev/vivekverma807"><img src="https://api.daily.dev/devcards/v2/H7cWTxICUdMrjbUlcDKIm.png?r=x4v&type=wide" width="652" alt="Vivek Kumar Verma's Dev Card"/></a>
+
 </div>
 
 <br>
