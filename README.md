@@ -197,7 +197,20 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 <img src="./assets/wing-left.png" alt="wing-left" height="120" style="vertical-align: middle; margin-bottom: 40px;"/><img src="https://streak-stats.demolab.com?user=vivekverma807&locale=en&mode=daily&theme=onedark&hide_border=false&order=3" height="160" alt="streak graph" align="center" style="vertical-align: middle;" /><img src="./assets/wing-right.png" alt="wing-right" height="120" style="vertical-align: middle; margin-bottom: 40px;"/>
 </p>
 
+<!-- GitHub Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekverma807&theme=github_dark" alt="Profile Details" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivekverma807&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivekverma807&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivekverma807&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivekverma807&theme=github_dark" alt="Repos Per Language" />
+</p>
 
 </div>
 
@@ -283,7 +296,7 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <!-- Funny Typewriter Outro -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+dropping+by!+%F0%9F%91%8B;Wait,+you're+still+here%3F;Are+you+looking+for+the+bugs%3F+%F0%9F%90%9B;Don't+worry,+they+are+'features'+%F0%9F%98%89;Star+the+repo+and+have+a+great+day!+%E2%AD%90" alt="Typing SVG" />
+  <img src="./assets/typewriter.gif" alt="Typing GIF" width="600" />
 </div>
 
 <br>
