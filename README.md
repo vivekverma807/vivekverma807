@@ -219,7 +219,7 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=vivekverma807&label=Profile%20views&color=0e75b6&style=flat" alt="vivekverma807" />
+<img src="https://komarev.com/ghpvc/?username=vivekverma807&label=Profile%20views&color=FFA500&style=flat" alt="vivekverma807" />
 
 </div>
 
