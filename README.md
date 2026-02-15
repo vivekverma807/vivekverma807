@@ -296,5 +296,5 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <!-- Footer Wave -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&reversal=true&text=Wait, you're still here?&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&reversal=true&text=Wait,%20you're%20still%20here?&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
 </div>
