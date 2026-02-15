@@ -294,14 +294,7 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <br>
 
-<!-- Funny Typewriter Outro -->
-<div align="center">
-  <img src="./assets/typewriter.gif" alt="Typing GIF" width="600" />
-</div>
-
-<br>
-
 <!-- Footer Wave -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&reversal=true&text=Wait, you're still here?&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
 </div>
