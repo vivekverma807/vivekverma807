@@ -97,7 +97,7 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <br>
 <br>
-<a href="https://app.daily.dev/vivekverma807"><img src="./devcard.png" width="652" alt="Vivek Kumar Verma's Dev Card"/></a>
+<a href="https://app.daily.dev/vivekverma807"><img src="./devcard.png" width="100%" alt="Vivek Kumar Verma's Dev Card"/></a>
 
 </div>
 
