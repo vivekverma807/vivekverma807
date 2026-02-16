@@ -18,4 +18,5 @@ jobs:
           user_id: ${{ secrets.USER_ID }}
           type: wide
           commit_message: "chore: update ${filename}"
+          commit_filename: devcard.svg
 
