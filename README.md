@@ -57,50 +57,45 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 ## 🌐 Connect With Me
 
-<table border="0" width="100%">
-    <tr>
-        <td width="45%" align="left" valign="center">
-            <a href="https://github.com/vivekverma807" target="_blank">
-                <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-            </a><br>
-            <a href="https://linkedin.com/in/vivekverma807" target="_blank">
-                <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-            </a><br>
-            <a href="https://twitter.com/vivekverma807" target="_blank">
-                <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-            </a><br>
-            <a href="https://instagram.com/vivekverma807" target="_blank">
-                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-            </a><br>
-            <a href="https://discord.com/users/vivekverma807" target="_blank">
-                <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-            </a><br>
-            <a href="https://stackoverflow.com/users/vivekverma807" target="_blank">
-                <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-            </a><br>
-            <a href="https://leetcode.com/vivekverma807" target="_blank">
-                <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-            </a><br>
-            <a href="https://codepen.io/vivekverma807" target="_blank">
-                <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
-            </a><br>
-            <a href="https://dev.to/vivekverma807" target="_blank">
-                <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-            </a><br>
-            <a href="https://medium.com/@vivekverma807" target="_blank">
-                <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-            </a><br>
-            <a href="https://hackerrank.com/vivekverma807" target="_blank">
-                <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-            </a>
-        </td>
-        <td width="55%" align="right" valign="center">
-            <a href="https://app.daily.dev/vivekverma807">
-                <img src="./devcard.png" width="300" alt="Vivek Kumar Verma's Dev Card"/>
-            </a>
-        </td>
-    </tr>
-</table>
+<a href="https://app.daily.dev/vivekverma807">
+  <img align="right" src="./devcard.png" width="300" alt="Vivek Kumar Verma's Dev Card" />
+</a>
+
+<a href="https://github.com/vivekverma807" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a><br>
+<a href="https://linkedin.com/in/vivekverma807" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a><br>
+<a href="https://twitter.com/vivekverma807" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a><br>
+<a href="https://instagram.com/vivekverma807" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a><br>
+<a href="https://discord.com/users/vivekverma807" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a><br>
+<a href="https://stackoverflow.com/users/vivekverma807" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+</a><br>
+<a href="https://leetcode.com/vivekverma807" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a><br>
+<a href="https://codepen.io/vivekverma807" target="_blank">
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+</a><br>
+<a href="https://dev.to/vivekverma807" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+</a><br>
+<a href="https://medium.com/@vivekverma807" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a><br>
+<a href="https://hackerrank.com/vivekverma807" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</a>
+
+<br clear="right"/>
 
 <br>
 
