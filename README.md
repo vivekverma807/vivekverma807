@@ -58,41 +58,41 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 ## 🌐 Connect With Me
 
 <a href="https://app.daily.dev/vivekverma807">
-  <img align="right" src="./devcard.png" width="300" alt="Vivek Kumar Verma's Dev Card" />
+  <img align="right" style="margin-right: 80px;" src="./devcard.png" width="300" alt="Vivek Kumar Verma's Dev Card" />
 </a>
 
 <a href="https://github.com/vivekverma807" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-left: 80px;" />
 </a><br>
 <a href="https://linkedin.com/in/vivekverma807" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-left: 80px;" />
 </a><br>
 <a href="https://twitter.com/vivekverma807" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-left: 80px;" />
 </a><br>
 <a href="https://instagram.com/vivekverma807" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-left: 80px;" />
 </a><br>
 <a href="https://discord.com/users/vivekverma807" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-left: 80px;" />
 </a><br>
 <a href="https://stackoverflow.com/users/vivekverma807" target="_blank">
-  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="margin-left: 80px;" />
 </a><br>
 <a href="https://leetcode.com/vivekverma807" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-left: 80px;" />
 </a><br>
 <a href="https://codepen.io/vivekverma807" target="_blank">
-  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" style="margin-left: 80px;" />
 </a><br>
 <a href="https://dev.to/vivekverma807" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" style="margin-left: 80px;" />
 </a><br>
 <a href="https://medium.com/@vivekverma807" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="margin-left: 80px;" />
 </a><br>
 <a href="https://hackerrank.com/vivekverma807" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="margin-left: 80px;" />
 </a>
 
 <br clear="right"/>
