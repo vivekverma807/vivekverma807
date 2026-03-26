@@ -5,7 +5,9 @@
 
 <br clear="both">
 
----
+<div align="center">
+  <img src="./assets/partition.gif" alt="divider" />
+</div>
 
 <!-- About Me Section -->
 ## 👨‍💻 About Me
@@ -53,7 +55,9 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/partition.gif" alt="divider" />
+</div>
 
 ## 🌐 Connect With Me
 
@@ -106,7 +110,11 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/partition.gif" alt="divider" />
+</div>
+
+<br>
 
 <!-- Pacman Contribution Graph -->
 <div align="center">
@@ -119,13 +127,15 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/partition.gif" alt="divider" />
+</div>
 
 ## �🛠️ Tech Stack & Skills
 
 <!-- Octocat Mascot -->
 <div align="center">
-  <img src="./assets/octocat-1770752664129.png" alt="octocat" width="250"/>
+  <img src="./assets/octocat.png" alt="octocat" width="250"/>
 </div>
 
 <br>
@@ -188,7 +198,9 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/partition.gif" alt="divider" />
+</div>
 
 ## 📊 GitHub Statistics
 
@@ -219,7 +231,9 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/partition.gif" alt="divider" />
+</div>
 
 ## 📉 Contribution Graph
 
@@ -231,7 +245,9 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/partition.gif" alt="divider" />
+</div>
 
 ## 🎨 3D Contribution Graph
 
@@ -243,7 +259,9 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/partition.gif" alt="divider" />
+</div>
 
 ## ✍️ Random Dev Quote
 
@@ -255,7 +273,9 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/partition.gif" alt="divider" />
+</div>
 
 ## 🔝 Top Contributed Repositories
 
@@ -267,7 +287,9 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/partition.gif" alt="divider" />
+</div>
 
 ## 👀 Profile Views
 
@@ -279,7 +301,9 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/partition.gif" alt="divider" />
+</div>
 
 ## 🐍 Snake Eating My Contributions
 
@@ -293,7 +317,9 @@ print(f"💻 {me.role} | 🎓 {me.education}")
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/partition.gif" alt="divider" />
+</div>
 
 <br>
 
