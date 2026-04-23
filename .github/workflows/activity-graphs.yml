@@ -20,7 +20,7 @@ jobs:
       # 1. Generate 3D Contribution Graph (Commits to MAIN branch)
       # ---------------------------------------------------------
       - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
